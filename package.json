@@ -1,0 +1,11 @@
+{
+  "name": "scholarship-ai-workspace",
+  "version": "1.0.0",
+  "description": "Scholarship AI with FastAPI backend and React frontend, ready for Vercel deployment.",
+  "scripts": {
+    "build": "npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

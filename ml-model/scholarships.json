@@ -1,0 +1,52 @@
+[
+    {
+        "name": "NSP Scholarship",
+        "field": "any",
+        "gender": "any",
+        "income_limit": 250000,
+        "level": "undergraduate",
+        "category": "any",
+        "country": "india",
+        "benefit": "₹10,000 to ₹50,000 per year"
+    },
+    {
+        "name": "Pragati Scholarship",
+        "field": "technical",
+        "gender": "female",
+        "income_limit": 800000,
+        "level": "undergraduate",
+        "category": "any",
+        "country": "india",
+        "benefit": "₹50,000 per year"
+    },
+    {
+        "name": "Reliance Foundation Scholarship",
+        "field": "engineering",
+        "gender": "any",
+        "income_limit": 500000,
+        "level": "undergraduate",
+        "category": "any",
+        "country": "india",
+        "benefit": "Up to ₹2 lakh"
+    },
+    {
+        "name": "Tata Scholarship",
+        "field": "any",
+        "gender": "any",
+        "income_limit": 600000,
+        "level": "undergraduate",
+        "category": "any",
+        "country": "india",
+        "benefit": "Full tuition support"
+    },
+    {
+        "name": "Google Women Techmakers",
+        "field": "computer science",
+        "gender": "female",
+        "income_limit": 1000000,
+        "level": "undergraduate",
+        "category": "any",
+        "country": "any",
+        "benefit": "$1000 scholarship"
+    }
+]

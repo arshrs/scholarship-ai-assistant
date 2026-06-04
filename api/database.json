@@ -1,0 +1,558 @@
+[
+    {
+        "question": "Scholarships for engineering students",
+        "answer": "You can apply for AICTE Scholarship, Tata Scholarship, and Reliance Foundation Scholarship."
+    },
+    {
+        "question": "Scholarships for computer science students",
+        "answer": "You can apply for Google Scholarship, Microsoft Scholarship, and Tata Scholarship."
+    },
+    {
+        "question": "Scholarships for undergraduate students",
+        "answer": "You can apply for NSP Scholarship, Reliance Foundation Scholarship, and state government scholarships."
+    },
+    {
+        "question": "Scholarships for postgraduate students",
+        "answer": "You can apply for GATE Scholarship, AICTE PG Scholarship, and university scholarships."
+    },
+    {
+        "question": "Scholarships for students with low income",
+        "answer": "You can apply for NSP Scholarship, Minority Scholarship, and government financial aid programs."
+    },
+    {
+        "question": "Scholarships for minority students",
+        "answer": "You can apply for Minority Scholarship, NSP Scholarship, and Maulana Azad Scholarship."
+    },
+    {
+        "question": "Scholarships for female students",
+        "answer": "You can apply for Pragati Scholarship, Google Women Techmakers Scholarship, and state scholarships."
+    },
+    {
+        "question": "Scholarships for students with good academic performance",
+        "answer": "You can apply for Merit-based scholarships like Tata Scholarship and Reliance Foundation Scholarship."
+    },
+    {
+        "question": "Scholarships for studying abroad",
+        "answer": "You can apply for Fulbright Scholarship, Chevening Scholarship, and Erasmus Scholarship."
+    },
+    {
+        "question": "Scholarships for Indian students",
+        "answer": "You can apply for NSP Scholarship, Reliance Foundation Scholarship, and Tata Scholarship."
+    },
+    {
+        "question": "What is the eligibility criteria for NSP scholarship",
+        "answer": "Students must be Indian citizens, enrolled in recognized institutions, and meet income and academic criteria."
+    },
+    {
+        "question": "What documents are required for NSP scholarship",
+        "answer": "Income certificate, Aadhaar card, bank account details, academic marksheets, and admission proof."
+    },
+    {
+        "question": "What is the income limit for NSP scholarship",
+        "answer": "Family income should be less than 2.5 lakh per year."
+    },
+    {
+        "question": "What is the scholarship amount in NSP scholarship",
+        "answer": "The amount ranges from ₹10,000 to ₹50,000 per year depending on course."
+    },
+    {
+        "question": "How to apply for NSP scholarship",
+        "answer": "Apply online through the National Scholarship Portal website."
+    },
+    {
+        "question": "What is the eligibility criteria for Reliance Foundation scholarship",
+        "answer": "Students must have good academic performance and be enrolled in undergraduate courses."
+    },
+    {
+        "question": "What documents are required for Reliance scholarship",
+        "answer": "Marksheets, income proof, identity proof, and admission letter."
+    },
+    {
+        "question": "What is the scholarship amount for Reliance Foundation scholarship",
+        "answer": "Students can receive up to ₹2 lakh during their course."
+    },
+    {
+        "question": "What is the eligibility criteria for Pragati scholarship",
+        "answer": "Female students enrolled in technical education with family income less than ₹8 lakh."
+    },
+    {
+        "question": "What documents are required for Pragati scholarship",
+        "answer": "Income certificate, Aadhaar card, admission proof, and bank details."
+    },
+    {
+        "question": "What is the scholarship amount for Pragati scholarship",
+        "answer": "₹50,000 per year."
+    },
+    {
+        "question": "What is the eligibility criteria for AICTE scholarship",
+        "answer": "Students enrolled in AICTE approved institutions."
+    },
+    {
+        "question": "What documents are required for AICTE scholarship",
+        "answer": "Admission proof, Aadhaar card, bank account, and marksheets."
+    },
+    {
+        "question": "What is the income limit for AICTE scholarship",
+        "answer": "Family income should be below ₹8 lakh per year."
+    },
+    {
+        "question": "What is the eligibility criteria for minority scholarship",
+        "answer": "Students belonging to minority communities with required academic performance."
+    },
+    {
+        "question": "What documents are required for minority scholarship",
+        "answer": "Minority certificate, income proof, Aadhaar card, and marksheets."
+    },
+    {
+        "question": "What is the scholarship amount for minority scholarship",
+        "answer": "Up to ₹30,000 per year."
+    },
+    {
+        "question": "What is the eligibility criteria for Tata scholarship",
+        "answer": "Students with strong academic record and financial need."
+    },
+    {
+        "question": "What documents are required for Tata scholarship",
+        "answer": "Income proof, marksheets, identity proof, and admission letter."
+    },
+    {
+        "question": "How to apply for Tata scholarship",
+        "answer": "Apply through Tata Trust official website."
+    },
+    {
+        "question": "What is the eligibility criteria for studying abroad scholarship",
+        "answer": "Students must have admission in foreign university and good academic record."
+    },
+    {
+        "question": "What documents are required for abroad scholarship",
+        "answer": "Passport, admission letter, academic records, and financial documents."
+    },
+    {
+        "question": "What is scholarship eligibility criteria",
+        "answer": "Eligibility depends on academic performance, income, and course enrollment."
+    },
+    {
+        "question": "What documents are required for scholarship application",
+        "answer": "Marksheets, income certificate, Aadhaar card, bank details, and admission proof."
+    },
+    {
+        "question": "How to apply for scholarship",
+        "answer": "Apply through official scholarship portal or institution website."
+    },
+    {
+        "question": "What is income certificate",
+        "answer": "It is proof of family income issued by government authority."
+    },
+    {
+        "question": "What is scholarship benefit",
+        "answer": "Scholarship provides financial support for education."
+    },
+    {
+        "question": "Who can apply for scholarship",
+        "answer": "Students meeting eligibility criteria can apply."
+    },
+    {
+        "question": "What is merit scholarship",
+        "answer": "Scholarship given based on academic performance."
+    },
+    {
+        "question": "What is need based scholarship",
+        "answer": "Scholarship given based on financial need."
+    },
+    {
+        "question": "Scholarships for diploma students",
+        "answer": "You can apply for state technical education scholarships and AICTE diploma schemes."
+    },
+    {
+        "question": "Scholarships for SC students",
+        "answer": "You can apply for Post Matric SC Scholarship and state government schemes."
+    },
+    {
+        "question": "Scholarships for ST students",
+        "answer": "You can apply for Post Matric ST Scholarship and tribal welfare scholarships."
+    },
+    {
+        "question": "Scholarships for OBC students",
+        "answer": "You can apply for OBC Post Matric Scholarship and NSP schemes."
+    },
+    {
+        "question": "Scholarships for economically backward students",
+        "answer": "You can apply for NSP Scholarship and government financial assistance programs."
+    },
+    {
+        "question": "Scholarships for first year college students",
+        "answer": "You can apply for NSP and university entrance-based scholarships."
+    },
+    {
+        "question": "Scholarships for second year students",
+        "answer": "You can apply for continuation scholarships and merit-based schemes."
+    },
+    {
+        "question": "Scholarships for final year students",
+        "answer": "You can apply for merit scholarships and placement-linked financial aid."
+    },
+    {
+        "question": "Scholarships for private college students",
+        "answer": "You can apply for NSP and private foundation scholarships."
+    },
+    {
+        "question": "Scholarships for government college students",
+        "answer": "You can apply for state and central government scholarship schemes."
+    },
+    {
+        "question": "Scholarships for distance learning students",
+        "answer": "You can apply for UGC distance education scholarships and NSP schemes."
+    },
+    {
+        "question": "Scholarships for online degree students",
+        "answer": "You can apply for UGC-approved online program scholarships."
+    },
+    {
+        "question": "Scholarships for rural students",
+        "answer": "You can apply for rural development and state welfare scholarships."
+    },
+    {
+        "question": "Scholarships for urban students",
+        "answer": "You can apply for merit and private foundation scholarships."
+    },
+    {
+        "question": "Scholarships for disabled students",
+        "answer": "You can apply for National Scholarship for Persons with Disabilities."
+    },
+    {
+        "question": "Scholarships for visually impaired students",
+        "answer": "You can apply for disability welfare and assistive education schemes."
+    },
+    {
+        "question": "Scholarships for hearing impaired students",
+        "answer": "You can apply for special education and disability support scholarships."
+    },
+    {
+        "question": "Scholarships for sports students",
+        "answer": "You can apply for sports authority and state sports scholarships."
+    },
+    {
+        "question": "Scholarships for national level players",
+        "answer": "You can apply for SAI and Khelo India scholarships."
+    },
+    {
+        "question": "Scholarships for arts students",
+        "answer": "You can apply for cultural and arts promotion scholarships."
+    },
+    {
+        "question": "Scholarships for commerce students",
+        "answer": "You can apply for merit and commerce foundation scholarships."
+    },
+    {
+        "question": "Scholarships for science students",
+        "answer": "You can apply for INSPIRE and science promotion scholarships."
+    },
+    {
+        "question": "Scholarships for medical students",
+        "answer": "You can apply for medical council and healthcare foundation scholarships."
+    },
+    {
+        "question": "Scholarships for nursing students",
+        "answer": "You can apply for nursing council and health ministry schemes."
+    },
+    {
+        "question": "Scholarships for pharmacy students",
+        "answer": "You can apply for pharmaceutical association scholarships."
+    },
+    {
+        "question": "Scholarships for law students",
+        "answer": "You can apply for legal education and bar council scholarships."
+    },
+    {
+        "question": "Scholarships for management students",
+        "answer": "You can apply for MBA foundation and corporate scholarships."
+    },
+    {
+        "question": "Scholarships for MBA students",
+        "answer": "You can apply for corporate-sponsored and merit-based MBA scholarships."
+    },
+    {
+        "question": "Scholarships for CA students",
+        "answer": "You can apply for ICAI and commerce foundation scholarships."
+    },
+    {
+        "question": "Scholarships for CS students",
+        "answer": "You can apply for ICSI and professional education scholarships."
+    },
+    {
+        "question": "Scholarships for hostel students",
+        "answer": "You can apply for maintenance and accommodation scholarships."
+    },
+    {
+        "question": "Scholarships for day scholar students",
+        "answer": "You can apply for merit and fee reimbursement schemes."
+    },
+    {
+        "question": "Scholarships for dropper students",
+        "answer": "You can apply for entrance exam and merit-based scholarships."
+    },
+    {
+        "question": "Scholarships after 12th standard",
+        "answer": "You can apply for central and state government scholarships."
+    },
+    {
+        "question": "Scholarships after graduation",
+        "answer": "You can apply for postgraduate and research scholarships."
+    },
+    {
+        "question": "Scholarships for PhD students",
+        "answer": "You can apply for UGC NET, CSIR, and research fellowships."
+    },
+    {
+        "question": "Scholarships for research scholars",
+        "answer": "You can apply for UGC, DST, and international fellowships."
+    },
+    {
+        "question": "Scholarships for working students",
+        "answer": "You can apply for part-time study and employer-sponsored scholarships."
+    },
+    {
+        "question": "Scholarships for part-time students",
+        "answer": "You can apply for flexible education support schemes."
+    },
+    {
+        "question": "Scholarships for meritorious poor students",
+        "answer": "You can apply for merit-cum-means scholarships."
+    },
+    {
+        "question": "Scholarships for orphan students",
+        "answer": "You can apply for social welfare and NGO scholarships."
+    },
+    {
+        "question": "Scholarships for single girl child",
+        "answer": "You can apply for UGC Single Girl Child Scholarship."
+    },
+    {
+        "question": "Scholarships for children of farmers",
+        "answer": "You can apply for agricultural welfare scholarships."
+    },
+    {
+        "question": "Scholarships for defense personnel children",
+        "answer": "You can apply for defense welfare education schemes."
+    },
+    {
+        "question": "Scholarships for migrant students",
+        "answer": "You can apply for state migration support scholarships."
+    },
+    {
+        "question": "Scholarships for tribal area students",
+        "answer": "You can apply for tribal welfare department schemes."
+    },
+    {
+        "question": "Scholarships for backward class students",
+        "answer": "You can apply for social justice department scholarships."
+    },
+    {
+        "question": "Scholarships for students affected by COVID",
+        "answer": "You can apply for emergency education relief schemes."
+    },
+    {
+        "question": "Scholarships for disaster affected students",
+        "answer": "You can apply for relief and rehabilitation scholarships."
+    },
+    {
+        "question": "What is a scholarship?",
+        "answer": "A scholarship is financial assistance given to students to help pay for their education based on merit, need, or specific eligibility criteria."
+    },
+    {
+        "question": "Who can apply for scholarships?",
+        "answer": "Students who meet the eligibility criteria such as academic performance, income limits, or category requirements can apply for scholarships."
+    },
+    {
+        "question": "How do I apply for a scholarship?",
+        "answer": "You can apply through official scholarship portals, university websites, or government scholarship platforms by filling out an application form and submitting required documents."
+    },
+    {
+        "question": "What documents are required for scholarship applications?",
+        "answer": "Common documents include Aadhaar card, income certificate, caste certificate (if applicable), academic marksheets, bank details, and passport-size photograph."
+    },
+    {
+        "question": "What is the minimum percentage required for scholarships?",
+        "answer": "The minimum percentage varies, but many scholarships require at least 60% marks in the previous academic year."
+    },
+    {
+        "question": "Are scholarships only for toppers?",
+        "answer": "No, scholarships are available for meritorious students as well as students from economically weaker sections or specific categories."
+    },
+    {
+        "question": "Can I apply for more than one scholarship?",
+        "answer": "Yes, you can apply for multiple scholarships, but some schemes may not allow receiving benefits from more than one source."
+    },
+    {
+        "question": "When is the best time to apply for scholarships?",
+        "answer": "Most scholarships open after academic results are declared, usually between June and October."
+    },
+    {
+        "question": "How is the scholarship amount paid?",
+        "answer": "The scholarship amount is usually credited directly to the student's bank account through direct benefit transfer (DBT)."
+    },
+    {
+        "question": "What is a merit-based scholarship?",
+        "answer": "A merit-based scholarship is awarded to students based on academic performance or achievements."
+    },
+    {
+        "question": "What is a need-based scholarship?",
+        "answer": "A need-based scholarship is given to students from low-income families who require financial assistance."
+    },
+    {
+        "question": "Can undergraduate students apply for scholarships?",
+        "answer": "Yes, undergraduate students can apply for various government and private scholarships."
+    },
+    {
+        "question": "Are scholarships available for postgraduate students?",
+        "answer": "Yes, many scholarships are specifically designed for postgraduate and research students."
+    },
+    {
+        "question": "Is there any age limit for scholarships?",
+        "answer": "Some scholarships have age limits, while others do not. It depends on the specific scholarship guidelines."
+    },
+    {
+        "question": "What happens if I fail after receiving a scholarship?",
+        "answer": "If a student fails, the scholarship may be discontinued depending on the terms and conditions of the scheme."
+    },
+    {
+        "question": "Are scholarships available for studying abroad?",
+        "answer": "Yes, many international scholarships support students who want to study abroad."
+    },
+    {
+        "question": "Can private college students apply for scholarships?",
+        "answer": "Yes, students studying in recognized private institutions can apply for eligible scholarships."
+    },
+    {
+        "question": "What is the difference between a scholarship and a loan?",
+        "answer": "A scholarship does not need to be repaid, while a loan must be repaid with interest."
+    },
+    {
+        "question": "How can I check my scholarship status?",
+        "answer": "You can check your application status by logging into the official scholarship portal where you applied."
+    },
+    {
+        "question": "What should I do if my scholarship is rejected?",
+        "answer": "You should review the rejection reason, correct any mistakes if possible, and reapply in the next cycle."
+    },
+    {
+        "question": "Can diploma students apply for scholarships?",
+        "answer": "Yes, many government and private organizations offer scholarships specifically for diploma students."
+    },
+    {
+        "question": "Are scholarships available for engineering students?",
+        "answer": "Yes, engineering students can apply for merit-based, need-based, and government-funded technical scholarships."
+    },
+    {
+        "question": "Are there scholarships for female students?",
+        "answer": "Yes, many scholarships are specially designed to support female students in higher education."
+    },
+    {
+        "question": "Are scholarships available for minority students?",
+        "answer": "Yes, minority scholarships are available for students belonging to notified minority communities."
+    },
+    {
+        "question": "Can students from low-income families get scholarships?",
+        "answer": "Yes, need-based scholarships are designed to support students from economically weaker sections."
+    },
+    {
+        "question": "Do scholarships cover full tuition fees?",
+        "answer": "Some scholarships cover full tuition fees, while others provide partial financial support."
+    },
+    {
+        "question": "Is hostel fee included in scholarship benefits?",
+        "answer": "Some scholarships include hostel and maintenance allowances, depending on the scheme."
+    },
+    {
+        "question": "Can I apply for scholarships after 12th?",
+        "answer": "Yes, many scholarships are available for students pursuing undergraduate courses after 12th grade."
+    },
+    {
+        "question": "Are there scholarships for PhD students?",
+        "answer": "Yes, research fellowships and government grants are available for PhD students."
+    },
+    {
+        "question": "Do I need an income certificate for need-based scholarships?",
+        "answer": "Yes, an income certificate is usually required to verify financial eligibility."
+    },
+    {
+        "question": "Can I edit my scholarship application after submission?",
+        "answer": "Some portals allow limited corrections before the final deadline, depending on the scheme rules."
+    },
+    {
+        "question": "What is the selection process for scholarships?",
+        "answer": "The selection process may include merit evaluation, income verification, document verification, and sometimes interviews."
+    },
+    {
+        "question": "Are scholarships renewable every year?",
+        "answer": "Some scholarships are renewable if the student maintains required academic performance."
+    },
+    {
+        "question": "What is a scholarship deadline?",
+        "answer": "A scholarship deadline is the last date to submit the application form and required documents."
+    },
+    {
+        "question": "Can gap year students apply for scholarships?",
+        "answer": "Some scholarships allow gap year students, but eligibility depends on the specific scheme."
+    },
+    {
+        "question": "Are scholarships available for distance education students?",
+        "answer": "Yes, some scholarships are available for students enrolled in recognized distance learning programs."
+    },
+    {
+        "question": "Can I receive scholarship money directly in my bank account?",
+        "answer": "Yes, most scholarships transfer funds directly to the student's bank account through DBT."
+    },
+    {
+        "question": "What happens if I submit incorrect documents?",
+        "answer": "Submitting incorrect documents may lead to rejection or cancellation of the scholarship."
+    },
+    {
+        "question": "Are scholarships taxable?",
+        "answer": "Generally, scholarships for education are not taxable, but it depends on government tax regulations."
+    },
+    {
+        "question": "Can I apply for scholarships every year?",
+        "answer": "Yes, students can apply each academic year if they meet the eligibility criteria."
+    },
+    {
+        "question": "Do scholarships require interviews?",
+        "answer": "Some competitive or private scholarships may include an interview round."
+    },
+    {
+        "question": "Is there any application fee for scholarships?",
+        "answer": "Most government scholarships are free to apply, but some private programs may charge a small fee."
+    },
+    {
+        "question": "What is a scholarship portal?",
+        "answer": "A scholarship portal is an online platform where students can find, apply, and track scholarship applications."
+    },
+    {
+        "question": "Can I track my scholarship payment status?",
+        "answer": "Yes, most official portals provide tracking options to check payment and approval status."
+    },
+    {
+        "question": "What is document verification in scholarships?",
+        "answer": "Document verification is the process of checking the authenticity of submitted certificates and information."
+    },
+    {
+        "question": "Are sports scholarships available?",
+        "answer": "Yes, sports scholarships are offered to students who have achieved excellence in sports."
+    },
+    {
+        "question": "Are scholarships available for students with disabilities?",
+        "answer": "Yes, special scholarships are available for students with certified disabilities."
+    },
+    {
+        "question": "Can I cancel my scholarship application?",
+        "answer": "Yes, in most cases, you can withdraw or cancel your application before final approval."
+    },
+    {
+        "question": "What is a scholarship renewal process?",
+        "answer": "Scholarship renewal requires submitting updated academic records and meeting performance criteria."
+    },
+    {
+        "question": "Can international students apply for scholarships in India?",
+        "answer": "Yes, some institutions and government programs offer scholarships for international students."
+    }
+]
